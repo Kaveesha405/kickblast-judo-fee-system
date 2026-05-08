@@ -107,6 +107,5 @@ kickblast-judo-fee-system/
 
 **Kaveesha Amiru** | Student ID: 00272845  
 HND in Computing — Programming Module  
-Lecturer: Ms. Layanga Kaushani
 
 > This project was developed for academic purposes.
