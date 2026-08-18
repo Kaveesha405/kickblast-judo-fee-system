@@ -2,7 +2,7 @@
 
 A desktop application for managing athlete registrations, training fee calculations, competition enrollments, and payment records for the KickBlast Judo Club.
 
-This project was developed as part of an HND Programming assignment covering the full software development lifecycle — from algorithm design to GUI implementation and database integration.
+This project was developed as part of an HND Programming assignment covering the full software development lifecycle - from algorithm design to GUI implementation and database integration.
 
 ***
 
@@ -32,12 +32,12 @@ This project was developed as part of an HND Programming assignment covering the
 
 ## Database Tables
 
-- `AdminUsers` — admin credentials and details
-- `Athletes` — athlete profiles and personal information
-- `TrainingPlans` — available plans and costs
-- `WeightCategories` — weight class definitions
-- `Competitions` — competition records
-- `PaymentDetails` — monthly fee payment records
+- `AdminUsers` - admin credentials and details
+- `Athletes` - athlete profiles and personal information
+- `TrainingPlans` - available plans and costs
+- `WeightCategories` - weight class definitions
+- `Competitions` - competition records
+- `PaymentDetails` - monthly fee payment records
 
 ***
 
@@ -106,6 +106,6 @@ kickblast-judo-fee-system/
 ## Author
 
 **Kaveesha Amiru** | Student ID: 00272845  
-HND in Computing — Programming Module  
+HND in Computing - Programming Module  
 
 > This project was developed for academic purposes.
